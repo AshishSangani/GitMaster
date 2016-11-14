@@ -1,1 +1,2 @@
 My feature in feature branch
+---committed after delete branch first time because of graph issues
